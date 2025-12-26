@@ -33,7 +33,7 @@ This website is designed to be hosted on **GitHub Pages**.
 
 ## 📬 Contact
 - **LinkedIn**: [Mouad Ounasser](https://www.linkedin.com/in/mouad-ounasser-08905a327/)
-- **Email**: contact@example.com
+- **Email**: ounassermouad142@gmail.com
 
 ---
 © 2024 Mouad Ounasser.
