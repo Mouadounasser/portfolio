@@ -3,7 +3,7 @@
 **Technologies:** Odoo 16, Python, XML, PostgreSQL  
 **Role:** Lead Developer
 
-![Project Screenshot](../assets/project_placeholder.png)
+![Project Screenshot](../assets/studio_reservation.png)
 
 ## Overview
 A comprehensive Odoo module designed to manage the entire lifecycle of property leasing and sales. The goal was to replace a legacy spreadsheet-based system with a centralized, automated solution integrated directly into the client's ERP.

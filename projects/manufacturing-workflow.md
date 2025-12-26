@@ -3,7 +3,7 @@
 **Technologies:** Odoo 15, Python, Odoo Workflows  
 **Role:** Odoo Developer
 
-![Project Screenshot](../assets/project_placeholder.png)
+![Project Screenshot](../assets/studio_reservation.png)
 
 ## Overview
 Designed to streamline a multi-stage manufacturing process for a furniture factory. The standard Odoo MRP was customizable, but the client needed strict enforcement of quality checks before everyday production moves.

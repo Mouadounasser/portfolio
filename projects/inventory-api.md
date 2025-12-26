@@ -3,7 +3,7 @@
 **Technologies:** Odoo 17, Python, REST API, JSON, PostgreSQL  
 **Role:** Backend Developer
 
-![Project Screenshot](../assets/project_placeholder.png)
+![Project Screenshot](../assets/studio_reservation.png)
 
 ## Overview
 This project involved synchronizing a high-volume retail client's Odoo Inventory with their external e-commerce platform (Shopify/WooCommerce). The requirement was near real-time stock updates to prevent overselling.
